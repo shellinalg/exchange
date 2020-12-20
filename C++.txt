@@ -1,0 +1,13 @@
+Accelerated Introduction to C++
+Introduction to the Boost C++ Libraries
+Learn the Vulkan API with C++ (Udemy) - 2020
+Machine Learning with C++ (Packt)
+Mastering Modern C++
+Modern C++ Libraries
+O'Reilly - Learning CPP Best Practices
+[OTUS] Разработчик C++ (2020)
+Packt - CPP 17 STL Solutions
+SQLite with Modern C++
+TTC - Introduction to C++
+Udemy - Computer Graphics with Modern OpenGL and C++
+Web Servers and APIs using C++
